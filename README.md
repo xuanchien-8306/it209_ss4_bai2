@@ -1,3 +1,3 @@
-# B�i 2 - Qu?n ly nh�nh v� Merge Conflict 
- 
-D�y l� n?i dung ban d?u tr�n nh�nh main. 
+# Bài 2 - Quản lý nhánh và Merge Conflict
+
+Đây là nội dung được cập nhật trên nhánh main.
